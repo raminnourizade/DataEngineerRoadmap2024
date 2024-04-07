@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | 1   | Operation System | Linux |
 | 2   | Programming Language | Python-Java |
-| 3   | Web Framework | Python->FastAPI<br><br>Java->Spring |
+| 3   | Web Framework | Python->FastAPI<br>Java->Spring |
 | 4   | Version Control | Git |
 | 5   | Version Control System Hosting | GitLab |
 | 6   | Advanced SQL Fundamental | CTEs<br><br>PartionOver<br><br>Windowing<br><br>Materialized View |
