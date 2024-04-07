@@ -1,6 +1,6 @@
 | #   | Methods | Tools |
 | --- | --- | --- |
-| 1   | **Operation System** | Linux |
+| 1   | Operation System | Linux |
 | 2   | Programming Language | Python-Java |
 | 3   | Web Framework | Python->FastAPI<br><br>Java->Spring |
 | 4   | Version Control | Git |
